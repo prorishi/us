@@ -1,10 +1,11 @@
 {
   "name": "osuc",
   "version": "0.0.0",
-  "description": "Open Source URL Copressor\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dm\u001b[2~p\u001b[2~ressor",
+  "description": "Open Source URL Compressor",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm install && node server"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/prorishi/osuc/issues"
   },
-  "homepage": "https://github.com/prorishi/osuc#readme"
+  "homepage": "https://github.com/prorishi/osuc#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastify": "^3.9.1"
+  }
 }
