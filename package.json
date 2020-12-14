@@ -1,0 +1,25 @@
+{
+  "name": "osuc",
+  "version": "0.0.0",
+  "description": "Open Source URL Copressor\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dm\u001b[2~p\u001b[2~ressor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prorishi/osuc.git"
+  },
+  "keywords": [
+    "open-source",
+    "url",
+    "node",
+    "express"
+  ],
+  "author": "ProRishi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prorishi/osuc/issues"
+  },
+  "homepage": "https://github.com/prorishi/osuc#readme"
+}
