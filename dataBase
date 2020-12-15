@@ -1,1 +1,28 @@
-{"NAME":"RIISHII"}
+[
+    {
+        "info": {
+            "name": "rishi",
+            "email": "rishi@r.in",
+            "password": "asdf1234"
+        },
+        "urls": [
+            {
+                "original": "www.google.co.in",
+                "shortened": "g"
+            }
+        ]
+    },
+    {
+        "info": {
+            "name": "pro",
+            "email": "pro@r.in",
+            "password": "iampro"
+        },
+        "urls": [
+            {
+                "original": "facebook.com",
+                "shortened": "fb"
+            }
+        ]
+    }
+]
